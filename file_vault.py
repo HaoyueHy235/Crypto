@@ -402,7 +402,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="保密文件库 — 基于国密算法 (SM3/SM4) 的加密文件管理工具",
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog=
+        epilog=""
     )
 
     parser.add_argument("action", choices=[
