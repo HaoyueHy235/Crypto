@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+file_vault_recent.json
+dist/
+build/
+*.spec
+*.exe
